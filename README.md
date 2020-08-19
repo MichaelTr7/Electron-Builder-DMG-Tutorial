@@ -43,13 +43,19 @@ Copy/paste the commands below into the terminal window and run.
 ```
 tiffutil -cathidpicheck "DMG_Background.png" "DMG_Background_Large.png" -out DMG_Background.tiff
 ```
+### Step 3: Creating an Assets Folder
+Create a folder named ```assets``` in your project directory where the ```package.json``` file resides <br> 
 
-### Step 3: Configuring "package.json" File
+
+### Step 4: Configuring "package.json" File
 
 
 ```
 
 ```
+
+
+
 
 
 
