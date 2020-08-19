@@ -61,6 +61,11 @@ After configuring the ```package.json``` file run ```npm run dist``` in the proj
 Template is given below:
 ```x``` and ```y``` can be changed to control the position of the icons in the DMG installer pop up.
 
+| Result: DMG Installer |
+|---|
+|<p align = "center"> <img src = "Example Images/DMG Installer Page.png" width = "500px"> <br> </p> |
+
+
 
 ```
 {
