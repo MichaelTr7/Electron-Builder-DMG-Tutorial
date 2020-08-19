@@ -12,3 +12,8 @@ Files required to make DMG installer
 
 
 ### Step 2: Generating DMG Installer Background Image (.tiff) File
+
+
+
+### Step 3: Configuring "package.json" File
+
