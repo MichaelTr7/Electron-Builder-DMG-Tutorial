@@ -10,7 +10,7 @@ Files required to make DMG installer
 
 | Example: App Icon |
 |---|
-|<p align = "center"> <img src = "Example Images/App_Icon.png" width = "100px"> <br> 1024px by 1024px </p> |
+|<p align = "center"> <img src = "Example Images/App_Icon.png" width = "100px"> <br> <b> 1024px by 1024px </b> </p> |
 
 Create a PNG image of size 1024px by 1024px. <br>
 Open a new terminal window and cd into the directory where the PNG image is saved. <br>
@@ -33,6 +33,14 @@ rm -R MacOS_Icon.iconset
 ```
 
 ### Step 2: Generating DMG Installer Background Image (.tiff) File
+
+| Example: DMG_Background.png | Example: DMG_Background_Large.png |
+|---|---|
+|<p align = "center"> <img src = "Example Images/DMG_Background.png" width = "400px"> <br> <b> 544px by 408px </b> </p> |<p align = "center"> <img src = "Example Images/DMG_Background_Large.png" width = "400px"> <br> <b> 1088px by 816px </b> </p>|
+
+
+
+
 Create another PNG image of abitrary size, for this demo a size of 1088px by 634px will be used. <br>
 Copy the PNG image and then open in preview. <br>
 Resize the image to be 50% smaller by going to '''Tools > Adjust Size''' in Preview's menu bar as shown below. <br>
