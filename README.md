@@ -46,3 +46,12 @@ tiffutil -cathidpicheck "DMG_Background.png" "DMG_Background_Large.png" -out DMG
 
 ### Step 3: Configuring "package.json" File
 
+
+```
+
+```
+
+
+
+
+
