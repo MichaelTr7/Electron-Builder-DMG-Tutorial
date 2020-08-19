@@ -3,7 +3,12 @@ A step by step tutorial on builder DMG installers for ElectronJS applications us
 
 Files required to make DMG installer
 - App icon [.icns]
-- DMG installer background [.tiff]
+- DMG installer background image [.tiff]
+
+
+## Step 1: Generating Application Icon (.icns) File
 
 
 
+
+## Step 2: Generating DMG Installer Background Image (.tiff) File
