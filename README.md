@@ -32,8 +32,12 @@ iconutil -c icns MacOS_Icon.iconset
 rm -R MacOS_Icon.iconset
 ```
 
-
 ### Step 2: Generating DMG Installer Background Image (.tiff) File
+Create another PNG image of abitrary size, for this demo a size of 1088px by 634px will be used. <br>
+Copy the PNG image and then open in preview. <br>
+Resize the image by going to '''Tools > Adjust Size''' in Preview's menu bar as shown below.
+
+
 
 
 
