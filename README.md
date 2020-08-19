@@ -6,9 +6,9 @@ Files required to make DMG installer
 - DMG installer background image [.tiff]
 
 
-## Step 1: Generating Application Icon (.icns) File
+### Step 1: Generating Application Icon (.icns) File
 
 
 
 
-## Step 2: Generating DMG Installer Background Image (.tiff) File
+### Step 2: Generating DMG Installer Background Image (.tiff) File
