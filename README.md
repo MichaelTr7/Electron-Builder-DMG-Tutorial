@@ -57,7 +57,7 @@ Copy the generated files ```MacOS_Icon.icns``` and ```DMG_Background.tiff``` to 
 
 
 ### Step 4: Configuring "package.json" File
-
+After configuring the ```package.json``` file run ```npm run dist``` in the project directory.
 
 ```
 {
