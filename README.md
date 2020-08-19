@@ -58,7 +58,7 @@ Copy the generated files ```MacOS_Icon.icns``` and ```DMG_Background.tiff``` to 
 
 ### Step 4: Configuring "package.json" File
 After configuring the ```package.json``` file run ```npm run dist``` in the project directory. <br>
-Template is given below:
+A template is given below:
 ```x``` and ```y``` can be changed to control the position of the icons in the DMG installer pop up.
 
 | Result: DMG Installer |
