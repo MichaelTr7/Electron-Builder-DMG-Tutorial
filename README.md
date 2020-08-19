@@ -35,11 +35,14 @@ rm -R MacOS_Icon.iconset
 ### Step 2: Generating DMG Installer Background Image (.tiff) File
 Create another PNG image of abitrary size, for this demo a size of 1088px by 634px will be used. <br>
 Copy the PNG image and then open in preview. <br>
-Resize the image by going to '''Tools > Adjust Size''' in Preview's menu bar as shown below.
+Resize the image to be 50% smaller by going to '''Tools > Adjust Size''' in Preview's menu bar as shown below. <br>
+Rename the images ```Background.png``` and ```Background_Large.png```.<br>
+Open a new terminal window and cd into the directory where the PNG image is saved. <br>
+Copy/paste the commands below into the terminal window and run.
 
+```
 
-
-
+```
 
 ### Step 3: Configuring "package.json" File
 
