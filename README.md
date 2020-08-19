@@ -51,6 +51,62 @@ Create a folder named ```assets``` in your project directory where the ```packag
 
 
 ```
+{
+  "name": "connect-four",
+  "productName": "Simple Connect4",
+  "version": "1.0.1",
+  "description": "Minimalist Connect4 game",
+  "main": "App.js",
+  "author": "MichaelTr7",
+  "license": "MIT",
+  "homepage": "Simple_Connect4.com",
+  "build": {
+    "appId": "com.simpleconnect4.app",
+    "icon": "assets/MacOS_Icon.icns",
+    "directories": {
+      "output": "build"
+    },
+    "productName": "Simple Connect4",
+    "mac": {
+      "target": ["dmg"],
+      "identity": null,
+      "category": "public.app-category.board-games"
+    },
+    "dmg": {
+      "background": "assets/background.tiff",
+      "icon": "assets/MacOS_Icon.icns",
+      "iconSize": 75,
+      "window": {
+        "width": 544,
+        "height": 408
+      },
+
+      "contents": [
+        {
+          "x": 450,
+          "y": 280
+        },
+        {
+          "x": 450,
+          "y": 170,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^9.2.0",
+    "electron-builder": "^22.8.0"
+  }
+}
 
 ```
 
