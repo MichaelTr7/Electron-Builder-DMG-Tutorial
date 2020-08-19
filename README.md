@@ -6,12 +6,12 @@ Files required to make DMG installer
 - DMG installer background image [.tiff]
 
 
-
-
-
-
-
 ### Step 1: Generating Application Icon (.icns) File
+
+| Example: App Icon |
+|---|
+| <img src = "Example Images/App_Icon.png" width = "100px" >  |
+
 Create a PNG image of size 1024px by 1024px. <br>
 Open a new terminal window and cd into the directory where the PNG image is saved. <br>
 Rename the PNG image to ```App_Icon.png``` then copy/paste the commands below into the terminal window and run.
