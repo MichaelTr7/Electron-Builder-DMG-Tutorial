@@ -74,7 +74,7 @@ Copy the generated files ```MacOS_Icon.icns``` and ```DMG_Background.tiff``` to 
       "category": "public.app-category.board-games"
     },
     "dmg": {
-      "background": "assets/background.tiff",
+      "background": "assets/DMG_Background.tiff",
       "icon": "assets/MacOS_Icon.icns",
       "iconSize": 75,
       "window": {
