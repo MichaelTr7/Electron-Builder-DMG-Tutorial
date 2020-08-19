@@ -10,7 +10,7 @@ Files required to make DMG installer
 
 | Example: App Icon |
 |---|
-| <img src = "Example Images/App_Icon.png" width = "100px" >  |
+|<p align = "center"> <img src = "Example Images/App_Icon.png" width = "100px" > </p> |
 
 Create a PNG image of size 1024px by 1024px. <br>
 Open a new terminal window and cd into the directory where the PNG image is saved. <br>
